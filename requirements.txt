@@ -21,6 +21,7 @@ distro==1.9.0
 executing==2.2.1
 fastjsonschema==2.21.2
 fqdn==1.5.1
+grandalf==0.8
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
@@ -83,6 +84,7 @@ pycparser==3.0
 pydantic==2.13.4
 pydantic_core==2.46.4
 Pygments==2.20.0
+pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-json-logger==4.1.0
